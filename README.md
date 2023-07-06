@@ -1,2 +1,8 @@
 # Nice-Little-Mirror
-a cool mod made for gorilla tag!
+A mod that adds the old mirror next to the wardrobe in stump, with some twists!
+  - Brand new style
+  - Nice background
+  - Orthographic
+  - Monkey monkey!!
+
+Enjoy!!!
